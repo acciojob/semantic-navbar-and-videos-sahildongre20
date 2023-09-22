@@ -1,2 +1,33 @@
 
 /* Your CSS Code here. */
+*{
+	font-family:arial;
+}
+main{
+	width:80%;
+	margin:auto;
+	background-color: aqua;
+	padding:20px;
+	text-align: center;
+	border:2px solid black;
+	margin-top: 100px;
+	border-radius: 20px;
+	color:white;
+}
+nav{
+	background-color: aqua;
+	padding:10px;
+}
+li{
+	list-style-type: none;
+	display:inline;
+	margin-right: 30px;
+}
+a{
+	text-decoration: none;
+	color:white;
+	font-size:20px
+}
+video{
+	width:100%;
+}
